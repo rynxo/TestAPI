@@ -1,7 +1,6 @@
 // EXAMPLE ADD
 
 {
-    "description": "Pembelian",
     "date": "2025-11-01",
     "qty": 50,
     "price": 100,
@@ -9,7 +8,6 @@
 }
 
 {
-    "description": "Penjualan",
     "date": "2025-11-02",
     "qty": -20,
     "price": 0,
@@ -17,7 +15,6 @@
 }
 
 {
-    "description": "Pembelian",
     "date": "2025-11-03",
     "qty": 30,
     "price": 120,
@@ -25,7 +22,6 @@
 }
 
 {
-    "description": "Penjualan",
     "date": "2025-11-04",
     "qty": -25,
     "price": 0,
